@@ -39,7 +39,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://iili.io/JMp3wV1.png" group-title="NASIONAL",Indosiar
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://iili.io/JMp3wV1.png" group-title="NASIONAL",Indosiar 2
 http://megaott.live:8080/XBdfvNyhnYrc/zjLVCQnaEY6q/4646
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="NASIONAL",Moji
@@ -48,10 +48,10 @@ http://megaott.live:8080/XBdfvNyhnYrc/zjLVCQnaEY6q/4646
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://iili.io/JMp3Qls.png" group-title="NASIONAL",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3Qls.png" group-title="NASIONAL",TRANS 7
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -121,7 +121,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
  
-#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://iili.io/JV3xDo7.png" group-title="NASIONAL",tvOne
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://iili.io/JV3xDo7.png" group-title="NASIONAL",tvOne
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
