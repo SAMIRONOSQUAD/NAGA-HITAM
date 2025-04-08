@@ -15,6 +15,12 @@
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://iili.io/JMp36xI.png" group-title="NASIONAL",RCTI FHD
+#EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://bbtv77.tipiku.workers.dev/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
+
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://iili.io/JMp3kla.png" group-title="NASIONAL",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
@@ -54,10 +60,10 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="NASIONAL",TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="NASIONAL",TRANS TV
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://iili.io/JMp31cb.png" group-title="NASIONAL",ANTV
@@ -66,7 +72,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="NASIONAL",VTV
+#EXTINF:-1 tvg-id="Vtv.id" tvg-logo="https://iili.io/JMp3pb2.png" group-title="NASIONAL",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
  
@@ -97,10 +103,10 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Daai TV.id" tvg-logo="https://iili.io/JMp3WNV.png" group-title="NASIONAL",Da Ai TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/2rCEOZl.png" group-title="NASIONAL",Garuda TV
+#EXTINF:-1 tvg-id="Garuda TV.id"tvg-logo="https://iili.io/2rCEOZl.png" group-title="NASIONAL",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="NASIONAL",Magna Channel
+#EXTINF:-1 tvg-id="Magna Channel.id"tvg-logo="https://iili.io/JMp3eKg.png" group-title="NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 
@@ -155,14 +161,14 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 https://hls.seatoday.com/hls_hd/seatoday.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JV3xmPe.png" group-title="NASIONAL",TVRI World
+#EXTINF:-1 tvg-id="TVRI World.id" tvg-logo="https://iili.io/JV3xmPe.png" group-title="NASIONAL",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtCoiu.png" group-title="NASIONAL",BN Channel
+#EXTINF:-1 tvg-id="BN Channel.id" tvg-logo="https://iili.io/JbtCoiu.png" group-title="NASIONAL",BN Channel
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch112.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnwkQ.png" group-title="NASIONAL",Banten TV
+#EXTINF:-1 tvg-id="Banten TV.id" tvg-logo="https://iili.io/JbtnwkQ.png" group-title="NASIONAL",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://iili.io/JMp3PVt.png" group-title="NASIONAL",RTV
