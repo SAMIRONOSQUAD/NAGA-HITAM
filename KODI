@@ -376,13 +376,13 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/mas
 #EXTINF:-1 group-logo="https://www.clipartmax.com/png/small/5-50425_patriot-sports-sports-png.png",OLAHRAGA LOKAL
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JjzVLl9.png" group-title="OLAHRAGA LOKAL",TVRI Sport
+#EXTINF:-1 tvg-id="Tvri Sport.id" tvg-logo="https://iili.io/JjzVLl9.png" group-title="OLAHRAGA LOKAL",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar - [Saluran 78].id" tvg-logo="https://iili.io/2h01fDJ.png" group-title="OLAHRAGA LOKAL",INDOSIAR BRI LIGA 1
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
-#EXTINF:1 tvg-id="Moji.id" tvg-logo="https://iili.io/39ciYfS.png" group-title="OLAHRAGA LOKAL",MOJI Proliga Volley
+#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/39ciYfS.png" group-title="OLAHRAGA LOKAL",MOJI Proliga Volley
 http://xtv.ooo:8080/danyear12/am809100/350997
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/39ciYfS.png" group-title="OLAHRAGA LOKAL",MOJI Proliga Volley 1
