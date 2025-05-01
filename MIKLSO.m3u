@@ -1,0 +1,154 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/unitedstates4.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/sportspremium1.xml" refresh="3600"
+
+#EXTINF:-1 tvg-id="rcti.id" tvg-name="RCTI FHD" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="TV LIVE",RCTI FHD
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
+#EXTINF:-1 tvg-id="RCT HD - Channel 430.id" tvg-name="RCTI" tvg-logo="" group-title="TV LIVE",RCTI
+http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+#EXTINF:-1 tvg-id="GTV HD - Channel 431.id" tvg-name="GTV" tvg-logo="" group-title="TV LIVE",GTV
+http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+#EXTINF:-1 tvg-id="MNCTV HD - Channel 432.id" tvg-name="MNCTV" tvg-logo="" group-title="TV LIVE",MNCTV
+http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="" group-title="TV LIVE",SCTV
+https://raw.githubusercontent.com/SAMIRONOSQUAD/NAGA-HITAM/refs/heads/main/sc.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="TV LIVE",INDOSIAR
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+#EXTINF:-1 tvg-id="indosiar.id" tvg-name="Indosiar INTER" tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="TV LIVE",Indosiar INTER
+http://megaott.live:8080/XBdfvNyhnYrc/zjLVCQnaEY6q/4646.ts
+#EXTINF:-1 tvg-id="transtv.id" tvg-name="TRANS TV" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="TV LIVE",TRANS TV
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
+#EXTINF:-1 tvg-id="trans7.id" tvg-name="TRANS 7" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png" group-title="TV LIVE",TRANS 7
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
+#EXTINF:-1 tvg-id="VTV.id" tvg-name="VTV" tvg-logo="" group-title="TV LIVE",VTV
+https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/VTV.m3u8
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="" group-title="TV LIVE",ANTV
+http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="" group-title="TV LIVE",BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-id="TVR.id" tvg-name="TVRI" tvg-logo="" group-title="TV LIVE",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-name="Nusantara TV" tvg-logo="" group-title="TV LIVE",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Daai TV.id" tvg-name="Da Ai TV" tvg-logo="" group-title="TV LIVE",Da Ai TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="" group-title="TV LIVE",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="Magna Channel.id" tvg-name="Magna Channel" tvg-logo="" group-title="TV LIVE",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Metro TV.id" tvg-name="Metro TV" tvg-logo="" group-title="TV LIVE",Metro TV
+http://202.147.193.244/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
+#EXTINF:-1 tvg-id="CNN ndonesia.id" tvg-name="CNN Indonesia" tvg-logo="" group-title="TV LIVE",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="Kompas TV.id" tvg-name="Kompas TV" tvg-logo="" group-title="TV LIVE",Kompas TV
+http://iptvtree.net:8080/umer.zia660/e7388412/165060
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="tvOne" tvg-logo="" group-title="TV LIVE",tvOne
+http://202.147.193.244/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+#EXTINF:-1 tvg-id="iNews HD - Channel 433.id" tvg-name="iNews" tvg-logo="" group-title="TV LIVE",iNews
+http://202.147.193.244/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+#EXTINF:-1 tvg-id="DTV.id" tvg-name="Beritasatu" tvg-logo="" group-title="TV LIVE",Beritasatu
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 tvg-id="Jawa Pos TV.id" tvg-name="Jawa Pos TV (Surabaya)" tvg-logo="" group-title="TV LIVE",Jawa Pos TV (Surabaya)
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR World.id" tvg-name="TVRI World" tvg-logo="" group-title="TV LIVE",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="Banten TV.id" tvg-name="Banten TV" tvg-logo="" group-title="TV LIVE",Banten TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-name="RTV" tvg-logo="" group-title="TV LIVE",RTV
+https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://iili.io/JMp3PVt.png" group-title="NASIONAL",RTV
+#EXTINF:-1 tvg-id="DUNIALAIN.ID" tvg-name="DUNIAL LAIN" tvg-logo="" group-title="TV LIVE",DUNIAL LAIN
+http://iptvtree.net:8080/umer.zia660/e7388412/165060
+#EXTINF:-1 tvg-id="MODJI.ID" tvg-name="MOJI INTER" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2022/08/14/932587078.jpg" group-title="OLAHRAGA NASIONAL",MOJI INTER
+http://iptvtree.net:8080/umer.zia660/e7388412/298550
+#EXTINF:-1 tvg-id="Moji.id" tvg-name="MOJI" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2022/08/14/932587078.jpg" group-title="OLAHRAGA NASIONAL",MOJI
+https://raw.githubusercontent.com/SAMIRONOSQUAD/NAGA-HITAM/refs/heads/main/MOJ.m3u8
+#EXTINF:-1 tvg-id="TVR Sport.id" tvg-name="TVRI Sport" tvg-logo="" group-title="OLAHRAGA NASIONAL",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+#EXTINF:-1 tvg-id="INDOSIAR.ID" tvg-name="INDOSIAR INTER" tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="OLAHRAGA NASIONAL",INDOSIAR INTER
+http://megaott.live:8080/XBdfvNyhnYrc/zjLVCQnaEY6q/4646.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Soccer Channel" tvg-logo="" group-title="OLAHRAGA NASIONAL",Soccer Channel
+https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Sportstars 1 HD - Channel 421.id" tvg-name="Sportstars 1" tvg-logo="" group-title="OLAHRAGA NASIONAL",Sportstars 1
+https://raw.githubusercontent.com/SAMIRONOSQUAD/NAGA-HITAM/refs/heads/main/sprt1.m3u8
+#EXTINF:-1 tvg-id="Sportstars 2 HD - Channel 422.id" tvg-name="Sportstars 2" tvg-logo="" group-title="OLAHRAGA NASIONAL",Sportstars 2
+https://raw.githubusercontent.com/SAMIRONOSQUAD/NAGA-HITAM/refs/heads/main/sprt2.m3u8
+#EXTINF:-1 tvg-id="SPOTV HD - Channel 427.id" tvg-name="SPOTV" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png" group-title="OLAHRAGA NASIONAL",SPOTV
+http://iptvtree.net:8080/umer.zia660/e7388412/165105
+#EXTINF:-1 tvg-id="SPOTV 2 HD - Channel 428.id" tvg-name="SPOTV2" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png" group-title="OLAHRAGA NASIONAL",SPOTV2
+http://iptvtree.net:8080/umer.zia660/e7388412/298506
+#EXTINF:-1 tvg-id="ext" tvg-name="PLAY SPORT 1 " tvg-logo="" group-title="SPORT INTERNATIONAL",PLAY SPORT 1 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28015.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PLAY SPORT 2 " tvg-logo="" group-title="SPORT INTERNATIONAL",PLAY SPORT 2 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28014.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PLAY SPORT 3 " tvg-logo="" group-title="SPORT INTERNATIONAL",PLAY SPORT 3 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28013.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MY| SONY TEN 1" tvg-logo="" group-title="SPORT INTERNATIONAL",MY| SONY TEN 1
+http://extraott.com:900/live/3162523972/3791698850/29566.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MY| SONY TEN 2" tvg-logo="" group-title="SPORT INTERNATIONAL",MY| SONY TEN 2
+http://extraott.com:900/live/3162523972/3791698850/29565.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MY| SONY TEN 3" tvg-logo="" group-title="SPORT INTERNATIONAL",MY| SONY TEN 3
+http://extraott.com:900/live/3162523972/3791698850/29564.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Astro Sports Plus" tvg-logo="" group-title="SPORT INTERNATIONAL",Astro Sports Plus
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600406.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Astro Badminton" tvg-logo="" group-title="SPORT INTERNATIONAL",Astro Badminton
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY Ten 1 HD" tvg-logo="" group-title="SPORT INTERNATIONAL",SONY Ten 1 HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29566.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY Ten 2 HD" tvg-logo="" group-title="SPORT INTERNATIONAL",SONY Ten 2 HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29565.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY Ten 3 HD" tvg-logo="" group-title="SPORT INTERNATIONAL",SONY Ten 3 HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29564.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FOOTBALL" tvg-logo="" group-title="SPORT INTERNATIONAL",FOOTBALL
+https://dl.dropboxusercontent.com/scl/fi/jw5wavd21hz9ycl1rrb8u/astro-football.m3u8?rlkey=0fbixc4mgz8g0ur4sv3v8109g&st=fnrvosop
+#EXTINF:-1 tvg-id="SPORTS - HUB SPORTS 1" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="" group-title="SPORT INTERNATIONAL",SPORTS - HUB SPORTS 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="" group-title="SPORT INTERNATIONAL",SPORTS - HUB SPORTS 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36304.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="" group-title="SPORT INTERNATIONAL",SPORTS - HUB SPORTS 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36303.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SPORTS - HUB SPORTS 4" tvg-logo="" group-title="SPORT INTERNATIONAL",SPORTS - HUB SPORTS 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SPORTS - HUB SPORTS 5" tvg-logo="" group-title="SPORT INTERNATIONAL",SPORTS - HUB SPORTS 5
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.m3u8
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1" tvg-logo="" group-title="SPORT INTERNATIONAL",DIGI SPORT 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17311.m3u8
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2 HD RO" tvg-logo="" group-title="SPORT INTERNATIONAL",DIGI SPORT 2 HD RO
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17310.m3u85
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2" tvg-logo="" group-title="SPORT INTERNATIONAL",DIGI SPORT 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17310.m3u8
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="DIGI SPORT 3" tvg-logo="" group-title="SPORT INTERNATIONAL",DIGI SPORT 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17309.m3u8
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4" tvg-logo="" group-title="SPORT INTERNATIONAL",DIGI SPORT 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17308.m3u8
+#EXTINF:-1 tvg-id="BEN SPORTS 1.D" tvg-name="BEIN SPORTS 1 EN" tvg-logo="" group-title="SPORT INTERNATIONAL",BEIN SPORTS 1 EN
+http://iptvtree.net:8080/umer.zia660/e7388412/295289
+#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORTS 2 EN" tvg-logo="" group-title="SPORT INTERNATIONAL",BEIN SPORTS 2 EN
+https://dl.dropboxusercontent.com/scl/fi/42ewu9rmfbiy0ossufv34/beinen2.m3u8?rlkey=cfd01zjm09c53do9lx6alnzh6&st=zkvw65j8
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ PREMIER LEAGUE" tvg-logo="" group-title="SPORT INTERNATIONAL",CANAL+ PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/r059gu8uo2ql1t2j9d54b/canal-plus-premier-league.m3u8?rlkey=ziop51flyeqxc0wefwfvi38b9&st=jk0zs3n9
+#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="SPORT INTERNATIONAL",BEIN SPORTS 1
+https://dl.dropboxusercontent.com/scl/fi/0hfxpcckdtsntypk0real/beinar1_2.m3u8?rlkey=lwf9yrzy9kb6mz7f9egr2zplb&st=qajpbgbo
+#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="SPORT INTERNATIONAL",BEIN SPORTS 2
+
+#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="SPORT INTERNATIONAL",BEIN SPORTS 3
+https://dl.dropboxusercontent.com/scl/fi/irhxu9a0mu8k12m9728ll/beinar3.m3u8?rlkey=9slhp0inx1jet4st4nkn19oq9&st=aukdgbnp
+#EXTINF:-1 tvg-id="beinsports1.au" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="SPORT INTERNATIONAL",BEIN SPORTS 1 HD
+http://extraott.com:900/live/3162523972/3791698850/355734.m3u8
+#EXTINF:-1 tvg-id="beinsports2.au" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="SPORT INTERNATIONAL",BEIN SPORTS 2 HD
+http://extraott.com:900/live/3162523972/3791698850/400200340.m3u8
+#EXTINF:-1 tvg-id="beinsports3.au" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="SPORT INTERNATIONAL",BEIN SPORTS 3 HD
+http://extraott.com:900/live/3162523972/3791698850/355737.m3u8
+#EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="ZIGGO SPORT HD" tvg-logo="" group-title="SPORT INTERNATIONAL",ZIGGO SPORT HD
+http://extraott.com:900/live/3162523972/3791698850/16824.m3u8
+#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="ZIGGO SPORT DOCU HD" tvg-logo="" group-title="SPORT INTERNATIONAL",ZIGGO SPORT DOCU HD
+http://extraott.com:900/live/3162523972/3791698850/16823.m3u8
+#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-name="ZIGGO SPORT TENNIS HD" tvg-logo="" group-title="SPORT INTERNATIONAL",ZIGGO SPORT TENNIS HD
+http://extraott.com:900/live/3162523972/3791698850/400220446.m3u8
+#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-name="ZIGGO SPORT EXTRA HD" tvg-logo="" group-title="SPORT INTERNATIONAL",ZIGGO SPORT EXTRA HD
+http://extraott.com:900/live/3162523972/3791698850/16822.m3u8
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="ZIGGO SPORT GOLF HD" tvg-logo="" group-title="SPORT INTERNATIONAL",ZIGGO SPORT GOLF HD
+http://extraott.com:900/live/3162523972/3791698850/16821.m3u8
+#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-name="ZIGGO SPORT RACING HD" tvg-logo="" group-title="SPORT INTERNATIONAL",ZIGGO SPORT RACING HD
+http://extraott.com:900/live/3162523972/3791698850/16820.m3u8
+#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="ZIGGO SPORT SELECT HD" tvg-logo="" group-title="SPORT INTERNATIONAL",ZIGGO SPORT SELECT HD
+http://extraott.com:900/live/3162523972/3791698850/16819.m3u8
+#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="ZIGGO SPORT VOETBAL HD" tvg-logo="" group-title="SPORT INTERNATIONAL",ZIGGO SPORT VOETBAL HD
+http://extraott.com:900/live/3162523972/3791698850/16818.m3u8
