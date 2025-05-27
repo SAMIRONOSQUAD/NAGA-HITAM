@@ -1,5 +1,0 @@
-#EXTINF:-1 tvg-id="Sportstars 1 HD - Channel 421.id" tvg-name="Sportstars 1" tvg-logo="https://iili.io/JjzV4ol.png" group-title="OLAHRAGA NASIONAL",Sportstars 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
-https://terabit.web.id/media.mpd?id=112&type=dash|Referer=https://www.visionplus.id
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|Referer=https://www.visionplus.id
